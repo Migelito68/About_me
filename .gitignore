@@ -1,4 +1,7 @@
-*.idea
+*.idea/
 *node_modules
+img/Thumbs.db
+Thumbs.db
+.DS_Store
 *old
-/tmp
+tmp/
