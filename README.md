@@ -15,4 +15,4 @@
 4. Git
 5. JavaScript
 
-img\IMG_250005.jpg
+![Мое фото](img/IMG_250005.jpg)
